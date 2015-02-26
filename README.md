@@ -3,7 +3,7 @@ Get started with Go development in minutes!
 
 ### 1. Install runtime:
 
-    git clone git@github.com:farazdagi/vim-go-ide.git ~/.vim_go_runtime
+    git clone git@github.com:jazzchen/vim-go-ide.git ~/.vim_go_runtime
     sh ~/.vim_go_runtime/bin/install
 
 **NOTE:** You system's Vim configuration will NOT be changed i.e. it is safe to install.
@@ -24,6 +24,8 @@ In order for the [amazing vim-go](https://github.com/fatih/vim-go) to be most us
 
 ### 4. End-result:
 
-![Screenshot](https://raw.githubusercontent.com/farazdagi/vim-go-ide/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/jazzchen/vim-go-ide/master/screenshot.png)
 
 Yep, that's it!
+
+:smile:
